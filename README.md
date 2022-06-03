@@ -1,6 +1,7 @@
-## GEEKSFORGEEKS
+
 
 <div align="center">
+## GEEKSFORGEEKS
 <img src="https://github.com/Ansh-create/450-DSA-QUESTIONS-BY-LOVE-BABBAR/blob/main/resize1-1.png" width="450" height="auto"/>
 
 This repo contains all of my personal GeeksforGeeks solutions. The coding solutions provided within this repo are entirely provided by me.
